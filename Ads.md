@@ -1,25 +1,25 @@
-Ads
-    Google
+#Ads
+    #Google
         https://pagead2.googlesyndication.com
         https://adservice.google.com
         https://pagead2.googleadservices.com
 
-    Media.net
+    #Media.net
         https://static.media.net
         https://media.net
         https://adservetx.media.net
 
-    Doubleclick.neT
+    #Doubleclick.net
         https://doubleclick.net/
         https://ad.doubleclick.net/
         https://static.doubleclick.net
         https://m.doubleclick.net
         https://mediavisor.doubleclick.net
 
-    Fastclick
+    #Fastclick
         https://fastclick.com
 
-    Amazon
+    #Amazon
         https://adtago.s3.amazonaws.com
         https://analyticsengine.s3.amazonaws.com
         https://advice-ads.s3.amazonaws.com
@@ -29,23 +29,23 @@ Ads
         https://amazonclix.com
         https://assoc-amazon.com
 
-Analytics
-    Google Analytics
+#Analytics
+    #Google Analytics
         https://google-analytics.com
         https://ssl.google-analytics.com
     
-    Hotjar
+    #Hotjar
         https://hotjar.com
         https://static.hotjar.com
 
-    MouseFlow
+    #MouseFlow
         https://mouseflow.com/
         https://a.mouseflow.com
 
-    FreshMarketer
+    #FreshMarketer
         https://freshmarketer.com/
     
-    Luckyorange
+    #Luckyorange
         https://luckyorange.com
         https://cdn.luckyorange.com
         https://w1.luckyorange.com
@@ -53,35 +53,35 @@ Analytics
         https://cs.luckyorange.net
         https://settings.luckyorange.net
 
-    Stats WordPress Plugin
+    #Stats WordPress Plugin
         https://stats.wp.com
 
-Error Trackers
-    Bugsnag
+#Error Trackers
+    #Bugsnag
         https://notify.bugsnag.com
         https://sessions.bugsnag.com
         https://api.bugsnag.com
         https://app.bugsnag.com
 
-    Sentry
+    #Sentry
         https://browser.sentry-cdn.com
         https://app.getsentry.com
 
-Social Trackers
-    Facebook
+#Social Trackers
+    #Facebook
         https://pixel.facebook.com
         https://ads.facebook.com
         https://an.facebook.com
 
-    Twitter
+    #Twitter
         https://ads-api.twitter.com
         https://advertising.twitter.com
 
-    LinkedIn
+    #LinkedIn
         https://ads.linkedin.com
         https://analytics.pointdrive.linkedin.com
 
-    Pinterest
+    #Pinterest
         https://ads.pinterest.com
         https://log.pinterest.com
         https://ads-dev.pinterest.com
@@ -89,29 +89,29 @@ Social Trackers
         https://trk.pinterest.com
         https://widgets.pinterest.com
 
-    Reddit
+    #Reddit
         https://ads.reddit.com
         https://d.reddit.com
         https://rereddit.com
         https://events.redditmedia.com
 
-    YouTube
+    #YouTube
         https://ads.youtube.com
 
-    TikTok
+    #TikTok
         https://analytics.tiktok.com
         https://ads.tiktok.com
         https://analytics-sg.tiktok.com
         https://ads-sg.tiktok.com
 
-Mix
-    Yahoo
-        https://ads.yahoo.com
+#Mix
+    #Yahoo
+        #https://ads.yahoo.com
         https://global.adserver.yahoo.com
         https://analytics.yahoo.com
         https://ads.yap.yahoo.com
 
-OEM
+#OEM
     Xiaomi
         https://api.ad.xiaomi.com
         https://app.chat.xiaomi.net
@@ -128,7 +128,7 @@ OEM
         https://tracking.india.miui.com
         https://tracking.rus.miui.com
 
-    Huawei
+    #Huawei
         https://metrics.data.hicloud.com
         https://metrics1.data.hicloud.com
         https://metrics2.data.hicloud.com
@@ -140,12 +140,12 @@ OEM
         https://metrics-dra.dt.hicloud.com
         https://logbak.hicloud.com
 
-    OnePlus
+    #OnePlus
         https://click.oneplus.cn
         https://click.oneplus.com
         https://open.oneplus.net
 
-    Samsung
+    #Samsung
         https://ad.samsungadhub.com
         https://samsungadhub.com
         https://samsungads.com
@@ -157,12 +157,12 @@ OEM
         https://analytics-api.samsunghealthcn.com
         https://config.samsungads.com
 
-    Apple
+    #Apple
         https://metrics.apple.com
         https://securemetrics.apple.com
         https://supportmetrics.apple.com
         https://metrics.icloud.com
         https://metrics.mzstatic.com
 
-Quelle:
-    https://test.adminforge.de/adblock.html        
+#Quelle:
+    #https://test.adminforge.de/adblock.html
