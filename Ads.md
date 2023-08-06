@@ -1,168 +1,168 @@
 #Ads
-##Google
-https://pagead2.googlesyndication.com
-https://adservice.google.com
-https://pagead2.googleadservices.com
+#Google
+pagead2.googlesyndication.com
+adservice.google.com
+pagead2.googleadservices.com
 
 ##Media.net
-https://static.media.net
-https://media.net
-https://adservetx.media.net
+static.media.net
+media.net
+adservetx.media.net
 
 ##Doubleclick.net
-https://doubleclick.net/
-https://ad.doubleclick.net/
-https://static.doubleclick.net
-https://m.doubleclick.net
-https://mediavisor.doubleclick.net
+doubleclick.net/
+ad.doubleclick.net/
+static.doubleclick.net
+m.doubleclick.net
+mediavisor.doubleclick.net
 
 ##Fastclick
-https://fastclick.com
+fastclick.com
 
 ##Amazon
-https://adtago.s3.amazonaws.com
-https://analyticsengine.s3.amazonaws.com
-https://advice-ads.s3.amazonaws.com
-https://affiliationjs.s3.amazonaws.com
-https://advertising-api-eu.amazon.com
-https://amazonaax.com
-https://amazonclix.com
-https://assoc-amazon.com
+adtago.s3.amazonaws.com
+analyticsengine.s3.amazonaws.com
+advice-ads.s3.amazonaws.com
+affiliationjs.s3.amazonaws.com
+advertising-api-eu.amazon.com
+amazonaax.com
+amazonclix.com
+assoc-amazon.com
 
 #Analytics
 ##Google Analytics
-https://google-analytics.com
-https://ssl.google-analytics.com
+google-analytics.com
+ssl.google-analytics.com
     
 ##Hotjar
-https://hotjar.com
-https://static.hotjar.com
+hotjar.com
+static.hotjar.com
 
 ##MouseFlow
-https://mouseflow.com/
-https://a.mouseflow.com
+mouseflow.com/
+a.mouseflow.com
 
 ##FreshMarketer
-https://freshmarketer.com/
+freshmarketer.com/
     
 ##Luckyorange
-https://luckyorange.com
-https://cdn.luckyorange.com
-https://w1.luckyorange.com
-https://upload.luckyorange.net
-https://cs.luckyorange.net
-https://settings.luckyorange.net
+luckyorange.com
+cdn.luckyorange.com
+w1.luckyorange.com
+upload.luckyorange.net
+cs.luckyorange.net
+settings.luckyorange.net
 
 ##Stats WordPress Plugin
-https://stats.wp.com
+stats.wp.com
 
 #Error Trackers
 ##Bugsnag
-https://notify.bugsnag.com
-https://sessions.bugsnag.com
-https://api.bugsnag.com
-https://app.bugsnag.com
+notify.bugsnag.com
+sessions.bugsnag.com
+api.bugsnag.com
+app.bugsnag.com
 
 ##Sentry
-https://browser.sentry-cdn.com
-https://app.getsentry.com
+browser.sentry-cdn.com
+app.getsentry.com
 
 ##Social Trackers
 #Facebook
-https://pixel.facebook.com
-https://ads.facebook.com
-https://an.facebook.com
+pixel.facebook.com
+ads.facebook.com
+an.facebook.com
 
 ##Twitter
-https://ads-api.twitter.com
-https://advertising.twitter.com
+ads-api.twitter.com
+advertising.twitter.com
 
 ##LinkedIn
-https://ads.linkedin.com
-https://analytics.pointdrive.linkedin.com
+ads.linkedin.com
+analytics.pointdrive.linkedin.com
 
 ##Pinterest
-https://ads.pinterest.com
-https://log.pinterest.com
-https://ads-dev.pinterest.com
-https://analytics.pinterest.com
-https://trk.pinterest.com
-https://widgets.pinterest.com
+ads.pinterest.com
+log.pinterest.com
+ads-dev.pinterest.com
+analytics.pinterest.com
+trk.pinterest.com
+widgets.pinterest.com
 
 ##Reddit
-https://ads.reddit.com
-https://d.reddit.com
-https://rereddit.com
-https://events.redditmedia.com
+ads.reddit.com
+d.reddit.com
+rereddit.com
+events.redditmedia.com
 
 ##YouTube
-https://ads.youtube.com
+ads.youtube.com
 
 ##TikTok
-https://analytics.tiktok.com
-https://ads.tiktok.com
-https://analytics-sg.tiktok.com
-https://ads-sg.tiktok.com
+analytics.tiktok.com
+ads.tiktok.com
+analytics-sg.tiktok.com
+ads-sg.tiktok.com
 
 #Mix
 ##Yahoo
-https://ads.yahoo.com
-        https://global.adserver.yahoo.com
-        https://analytics.yahoo.com
-        https://ads.yap.yahoo.com
+ads.yahoo.com
+global.adserver.yahoo.com
+analytics.yahoo.com
+ads.yap.yahoo.com
 
 ##OEM
 #Xiaomi
-https://api.ad.xiaomi.com
-https://app.chat.xiaomi.net
-https://data.mistat.xiaomi.com
-https://data.mistat.intl.xiaomi.com
-https://data.mistat.india.xiaomi.com
-https://data.mistat.rus.xiaomi.com
-https://sdkconfig.ad.xiaomi.com
-https://sdkconfig.ad.intl.xiaomi.com
-https://globalapi.ad.xiaomi.com
-https://www.cdn.ad.xiaomi.com
-https://tracking.miui.com
-https://tracking.intl.miui.com
-https://tracking.india.miui.com
-https://tracking.rus.miui.com
+api.ad.xiaomi.com
+app.chat.xiaomi.net
+data.mistat.xiaomi.com
+data.mistat.intl.xiaomi.com
+data.mistat.india.xiaomi.com
+data.mistat.rus.xiaomi.com
+sdkconfig.ad.xiaomi.com
+sdkconfig.ad.intl.xiaomi.com
+globalapi.ad.xiaomi.com
+cdn.ad.xiaomi.com
+tracking.miui.com
+tracking.intl.miui.com
+tracking.india.miui.com
+tracking.rus.miui.com
 
 #Huawei
-https://metrics.data.hicloud.com
-https://metrics1.data.hicloud.com
-https://metrics2.data.hicloud.com
-https://metrics3.data.hicloud.com
-https://metrics4.data.hicloud.com
-https://metrics5.data.hicloud.com 
-https://logservice.hicloud.com
-https://logservice1.hicloud.com
-https://metrics-dra.dt.hicloud.com
-https://logbak.hicloud.com
+metrics.data.hicloud.com
+metrics1.data.hicloud.com
+metrics2.data.hicloud.com
+metrics3.data.hicloud.com
+metrics4.data.hicloud.com
+metrics5.data.hicloud.com 
+logservice.hicloud.com
+logservice1.hicloud.com
+metrics-dra.dt.hicloud.com
+logbak.hicloud.com
 
 ##OnePlus
-https://click.oneplus.cn
-https://click.oneplus.com
-https://open.oneplus.net
+click.oneplus.cn
+click.oneplus.com
+open.oneplus.net
 
 #Samsung
-https://ad.samsungadhub.com
-https://samsungadhub.com
-https://samsungads.com
-https://smetrics.samsung.com
-https://nmetrics.samsung.com
-https://samsung-com.112.2o7.net
-https://business.samsungusa.com
-https://analytics.samsungknox.com
-https://analytics-api.samsunghealthcn.com
-https://config.samsungads.com
+ad.samsungadhub.com
+samsungadhub.com
+samsungads.com
+smetrics.samsung.com
+nmetrics.samsung.com
+samsung-com.112.2o7.net
+business.samsungusa.com
+analytics.samsungknox.com
+analytics-api.samsunghealthcn.com
+config.samsungads.com
 
 #Apple
-https://metrics.apple.com
-https://securemetrics.apple.com
-https://supportmetrics.apple.com
-https://metrics.icloud.com
-https://metrics.mzstatic.com
+metrics.apple.com
+securemetrics.apple.com
+supportmetrics.apple.com
+metrics.icloud.com
+metrics.mzstatic.com
 
 #Quelle:
-#    https://test.adminforge.de/adblock.html
+#test.adminforge.de/adblock.html
